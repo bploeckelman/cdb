@@ -1,0 +1,7 @@
+cmake-build-*/
+.bundle/
+.idea/
+
+Gemfile.lock
+database.db
+
